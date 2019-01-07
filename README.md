@@ -29,6 +29,8 @@ afd q1.com
 ## CODE NAMES
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+# BRICK2 -Simpl Brick game in assembly
+
 
 1: This subroutine finds if a set of consecutive n number of zeros is present in the given sequence or not
 
