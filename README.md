@@ -6,7 +6,7 @@ How to Run
 
 3- place DosBox Folder,nasm file ,afd file and cwsdpmi file in 'assembly_code' folder  C: directory.
 
-open DOS BOX
+open DOS BOXPORTABLE application file
 
 write
 
