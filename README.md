@@ -4,12 +4,15 @@ How to Run
 
 2- Unrar the DOSBOX file from given rar file
 
-3- place DosBox Folder,nasm file ,afd file and cwsdpmi file in 'assembly_code' folder to C: directory.
+3- place DosBox Folder,nasm file ,afd file and cwsdpmi file in 'assembly_code' folder  C: directory.
 
 open DOS BOX
+
 write
+
 mount c: c:\assembly_code 
 c:
+
 4- Now to run any question (say named 'q1.asm'), run DOSBOX 0.74 and type
 
 nasm q1.asm -o q1.com  
