@@ -2,10 +2,12 @@
 How to Run
 1- Download this code and move the 'assembly_code' folder to C: directory.
 
-2- Install DOSBOX from this link: Download DOSBOX Emulator
+2- Unrar the DOSBOX file from given rar file
 
-3- After complete installation, go to DOSBOX installation directory and run "DOSBox 0.74 Options.bat". This will save you from the pain of searching the configuration file yourself and will open that file for you. Copy these lines at the end of that file:
+3- place DosBox Folder,nasm file ,afd file and cwsdpmi file in 'assembly_code' folder to C: directory.
 
+open DOS BOX
+write
 mount c: c:\assembly_code 
 c:
 4- Now to run any question (say named 'q1.asm'), run DOSBOX 0.74 and type
